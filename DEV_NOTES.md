@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Added type hints to helper functions
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-29
+- Added .editorconfig for consistent formatting
+- Checked for memory leaks in long-running path
