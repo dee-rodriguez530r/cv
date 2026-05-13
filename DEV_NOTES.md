@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added .editorconfig for consistent formatting
 - Checked for memory leaks in long-running path
+
+## 2026-05-13
+- Tested build on clean environment
+- Documented config options
+- Added type hints to helper functions
